@@ -5,8 +5,8 @@ const Login = () => {
     <h2>Login</h2>
     <div>
       <label>
-      Name:
-      <input type="text" name="name" />
+      ID:
+      <input type="text" name="id" />
       </label>
       <br />
       <label>
